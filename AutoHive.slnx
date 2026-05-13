@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AutoHive.API/AutoHive.API.csproj" />
+    <Project Path="src/AutoHive.Application/AutoHive.Application.csproj" />
+    <Project Path="src/AutoHive.Domain/AutoHive.Domain.csproj" />
+    <Project Path="src/AutoHive.Infrastructure/AutoHive.Infrastructure.csproj" />
+    <Project Path="src/AutoHive.Web/AutoHive.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AutoHive.Tests/AutoHive.Tests.csproj" />
+  </Folder>
+</Solution>

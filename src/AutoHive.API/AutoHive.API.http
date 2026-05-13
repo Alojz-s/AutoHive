@@ -1,0 +1,6 @@
+@AutoHive.API_HostAddress = http://localhost:5202
+
+GET {{AutoHive.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
